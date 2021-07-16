@@ -1,0 +1,3 @@
+这里是testfile4
+此文件的作用是测试git commit --amend的修改提交信息功能
+此文件的作用是测试git commit --amend的小修补替换功能
