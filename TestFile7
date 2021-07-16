@@ -1,1 +1,12 @@
 这是一个lazygit的测试文件
+
+我改动了一下这个文件，测试一下git diff
+
+我又添加了一行，测试git diff里的+和-
+ffffffffffffffffffffffff
+ffffffffffffffffffffffff
+
+bbbbbbbbb
+
+bbbbbbbbb
+mmmmmmmmmmmmmmm
