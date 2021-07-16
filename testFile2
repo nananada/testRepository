@@ -1,1 +1,5 @@
 此文件是testfile2
+
+
+
+测试git reset HEAD命令后git status命令显示的内容和modified文件后显示的内容有何不同
